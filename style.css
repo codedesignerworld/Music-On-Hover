@@ -1,0 +1,9 @@
+#image {
+  position: absolute;
+  height: 380px;
+  width: 380px;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  border-radius: 50%;
+}
